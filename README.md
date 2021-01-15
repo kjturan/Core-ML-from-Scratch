@@ -12,20 +12,23 @@ soley using Numpy and (occassionally) Pytorch.
 To run the notebooks, please download the corret datasets and organize the project such that the dataset and trained model folders 
 should be one level above your notebook - that is, "../Datasets", "../trained_models" etc.  
 
+```
    Suggested directory structure:  
    
    Root Folder/  
-     - Models/ 
-     - Datasets/  
-       - dataset_1
-         - IRIS
-         - MNIST
-       - dataset_2 
-         - MNIST
-         - CelebA
-     - Src/  
-       - scratch_1.ipynb 
-       - scratch_2.ipynb
+   +-- Models/ 
+   +-- Datasets/  
+   |   +-- dataset_1/
+   |   |   +-- IRIS
+   |   |   +-- MNIST
+   |   +-- dataset_2/ 
+   |   |   +-- MNIST
+   |   |   +-- CelebA
+   +-- Src/  
+   |   +-- scratch_1.ipynb 
+   |   +-- scratch_2.ipynb
+ 
+ ```
        
 Note: the file format of MNIST is different in both datasets. 
 
