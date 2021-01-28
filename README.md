@@ -9,7 +9,7 @@ soley using Numpy and (occassionally) Pytorch.
 - scratch_2.ipynb demonstrates basic convolutions, convolutional pyramidal AutoEncoders, Variational AutoEncoders (VAE), and VGGs 
   on the CelebA and MNIST datasets (dataset_2)
 
-To run the notebooks, please download the corret datasets and organize the project such that the dataset and trained model folders 
+To run the notebooks, please download the correct datasets and organize the project such that the dataset and trained model folders 
 should be one level above your notebook - that is, "../Datasets", "../trained_models" etc.  
 
 ```
@@ -32,4 +32,4 @@ should be one level above your notebook - that is, "../Datasets", "../trained_mo
        
 Note: the file format of MNIST is different in both datasets. 
 
-Feel free to email me regarding any inquires @ kaanjenkinsturan@gmail.com
+Feel free to email me regarding any inquires @kaanjenkinsturan@gmail.com
