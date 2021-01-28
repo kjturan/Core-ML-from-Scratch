@@ -9,7 +9,7 @@ soley using Numpy and (occassionally) Pytorch.
 - scratch_2.ipynb demonstrates basic convolutions, convolutional pyramidal AutoEncoders, Variational AutoEncoders (VAE), and VGGs 
   on the CelebA and MNIST datasets (dataset_2)
   
-I have provided two zipped files for the datasets. After downloading you can expect to see the following:
+I have provided a zipped file for dataset_1, but dataset_2 is far too large so please refer to the following link: 'https://drive.google.com/u/0/uc?export=download&confirm=Dv2h&id=1cRSxlp7RJWoggAaV3clD_MQfPyMkvCCV'. After downloading you can expect to see the following directory structures:
 ```
 +-- dataset_1/
 |  +-- IRIS/
